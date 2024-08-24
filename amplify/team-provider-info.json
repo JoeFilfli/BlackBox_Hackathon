@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-codeview360-dev-1fa0e-authRole",
+      "UnauthRoleArn": "arn:aws:iam::381491899474:role/amplify-codeview360-dev-1fa0e-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::381491899474:role/amplify-codeview360-dev-1fa0e-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-codeview360-dev-1fa0e-deployment",
+      "UnauthRoleName": "amplify-codeview360-dev-1fa0e-unauthRole",
+      "StackName": "amplify-codeview360-dev-1fa0e",
+      "StackId": "arn:aws:cloudformation:us-east-1:381491899474:stack/amplify-codeview360-dev-1fa0e/ed925cd0-622c-11ef-a688-0affdf934627",
+      "AmplifyAppId": "d3n2og0l7fqqnw"
+    }
+  }
+}
